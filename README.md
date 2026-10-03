@@ -190,16 +190,10 @@ Turn ideas into useful products.
 <div align="center">
 
 <a href="https://github.com/MAHFUJ-7"><img src="https://img.shields.io/badge/GitHub-MAHFUJ--7-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mahfuj on GitHub"/></a>
+<a href="https://www.linkedin.com/in/md-mahfuj-5182a2315/"><img src="https://img.shields.io/badge/LinkedIn-Md_Mahfuj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahfuj on LinkedIn"/></a>
+<a href="mailto:crazymahfuj1@gmail.com"><img src="https://img.shields.io/badge/Email-crazymahfuj1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahfuj"/></a>
 
 </div>
-
-<!--
-Add your own links here when you're ready (remove the comment markers):
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
--->
 
 ---
 
