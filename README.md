@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:ff6b35,50:ff3d9a,75:a855f7,100:00b4d8&height=210&section=header&text=Md%20Mahfuj&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=60&descColor=fff4e6&animation=fadeIn" width="100%" alt="Md Mahfuj - Frontend and Full-Stack Web Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:ff6b35,50:ff3d9a,75:a855f7,100:00b4d8&height=210&section=header&text=Md%20Mahfuj&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20and%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=60&descColor=fff4e6&animation=fadeIn" width="100%" alt="Md Mahfuj - Frontend and Full-Stack Web Developer"/>
 
 <a href="https://github.com/MAHFUJ-7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=720&height=40&lines=CSE+Student+%40+CUET%2C+Bangladesh;React+%2B+Next.js+Developer;Building+fast%2C+accessible+web+apps;Open+to+internships+%26+remote+opportunities" alt="Typing animation: CSE student, React and Next.js developer, open to internships"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=720&height=40&lines=CSE+Student+%40+CUET%2C+Bangladesh;React+%2B+Next.js+Developer;Building+fast%2C+accessible+web+apps;Open+to+internships+and+remote+opportunities" alt="Typing animation: CSE student, React and Next.js developer, open to internships"/>
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Remote-ff8c00?style=for-the-badge&labelColor=0d1117" alt="Open to internships and remote work"/>
+  <img src="https://img.shields.io/badge/Open_to-Internships_and_Remote-ff8c00?style=for-the-badge&labelColor=0d1117" alt="Open to internships and remote work"/>
   <img src="https://img.shields.io/badge/Timezone-UTC%2B6-00b4d8?style=for-the-badge&labelColor=0d1117" alt="Timezone UTC+6"/>
   <img src="https://img.shields.io/badge/Languages-Bangla_%C2%B7_English-a855f7?style=for-the-badge&labelColor=0d1117" alt="Languages: Bangla and English"/>
   <img src="https://img.shields.io/badge/Location-Bangladesh-00ff9c?style=for-the-badge&labelColor=0d1117" alt="Location: Bangladesh"/>
@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00b4d8,50:a855f7,75:ff3d9a,100:ff8c00&height=3" width="100%" alt="divider"/>
+---
 
 ## 👋 About Me
 
@@ -33,7 +33,7 @@ I'm a Computer Science & Engineering student at the **Chittagong University of E
 - 🔵 **Looking for:** internships, open-source collaboration and remote opportunities
 - 🟢 **Ask me about:** React, Next.js, Tailwind CSS, frontend development
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff8c00,33:ff3d9a,66:a855f7,100:00b4d8&height=3" width="100%" alt="divider"/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -76,7 +76,7 @@ I'm a Computer Science & Engineering student at the **Chittagong University of E
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,33:a855f7,66:ff3d9a,100:ff8c00&height=3" width="100%" alt="divider"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -99,7 +99,7 @@ Helps developers choose technologies for their next project. Browse 15 tools wit
 
 A workout library and planner. Explore exercises, view details, build "Today's Plan", save workouts for later and sort by duration, calories or rating. Fully responsive on mobile, tablet and desktop.
 
-<img src="https://img.shields.io/badge/Next.js-ff8c00?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/DaisyUI-ff3d9a?style=flat-square&logo=daisyui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-ff8c00?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/DaisyUI-ff3d9a?style=flat-square"/>
 
 [💻 Source](https://github.com/MAHFUJ-7/Assignment-6) · [🌐 Live Demo](https://assignment-6-bug-test.vercel.app)
 
@@ -107,7 +107,7 @@ A workout library and planner. Explore exercises, view details, build "Today's P
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3d9a,33:ff8c00,66:00ff9c,100:00b4d8&height=3" width="100%" alt="divider"/>
+---
 
 ## 🧭 Learning Roadmap
 
@@ -123,7 +123,7 @@ A workout library and planner. Explore exercises, view details, build "Today's P
  ● done   ◐ in progress   ○ planned
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,33:00b4d8,66:00ff9c,100:ff8c00&height=3" width="100%" alt="divider"/>
+---
 
 ## 📊 GitHub Stats
 
@@ -136,7 +136,7 @@ A workout library and planner. Explore exercises, view details, build "Today's P
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00b4d8,50:a855f7,75:ff3d9a,100:ff8c00&height=3" width="100%" alt="divider"/>
+---
 
 <div align="center">
 
